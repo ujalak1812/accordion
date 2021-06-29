@@ -1,4 +1,4 @@
-#### Idea
+#### Inspiration
 
 [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
@@ -18,5 +18,5 @@ const Component = () => {
   return <FaHome className='icon'></FaHome>;
 };
 ```
-## Demo
+#### Demo
 [http://ujalak1812.github.io/accordion](http://ujalak1812.github.io/accordion)
