@@ -19,4 +19,4 @@ const Component = () => {
 };
 ```
 ## Demo
-[http://ujalak1812.github.io/accordion](http://ujalak1812.github.io/accordion)
+[https://ujalak1812.github.io/accordion](https://ujalak1812.github.io/accordion)
