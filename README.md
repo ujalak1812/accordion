@@ -18,5 +18,5 @@ const Component = () => {
   return <FaHome className='icon'></FaHome>;
 };
 ```
-## Demo
+#### Demo
 [https://ujalak1812.github.io/accordion](https://ujalak1812.github.io/accordion)
